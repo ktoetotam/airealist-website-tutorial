@@ -4,4 +4,6 @@ A tutorial for building a professional website with Claude and MiniMax—no codi
 
 This template includes a simple, single-page professional website with integrated CV and headshot.
 
+For already implemented websites, see: https://github.com/ktoetotam/website-building-blockchainwithAI
+
 For full details and step-by-step tutorial, see: https://msukhareva.substack.com/p/a-step-by-step-guide-to-building-website-with-ai
